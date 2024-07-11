@@ -57,28 +57,25 @@ Reattach to the Screen Session
 To reattach to the screen session:
 screen -r weatherbot
 
-Bot Commands
+## Bot Commands
 
-Triggers for the Bot
-!w <location>: Get the current weather for the specified location.
-Example: !w NYC
-!weather <location>: Alias for !w <location>.
-Example: !weather NYC
-Commands
-!w <location>: Get the current weather for the specified location.
-Example: !w NYC
-!w: Get the current weather for your saved location.
-!check <nick>: Check the weather for the saved location of the specified nickname.
-Example: !check username
-!setweather <zip or location>: Set your weather location using a zip code or location name.
-Example: !setweather 10001
-!join <#channel>: Make the bot join the specified channel.
-Example: !join #weather
-!part <#channel>: Make the bot leave the specified channel.
-Example: !part #weather
-!help: Show the help message.
-Questions or Help
-For questions, help, or to visit, join us at:
+### Triggers for the Bot
+- **`!w <location>`**: Get the current weather for the specified location.
+  - Example: `!w NYC`
+- **`!weather <location>`**: Alias for `!w <location>`.
+  - Example: `!weather NYC`
 
-IRC.TWISTEDNET.ORG CHANNEL #DEV & #TWISTED
+### Commands
+- **`!w <location>`**: Get the current weather for the specified location.
+  - Example: `!w NYC`
+- **`!w`**: Get the current weather for your saved location.
+- **`!check <nick>`**: Check the weather for the saved location of the specified nickname.
+  - Example: `!check username`
+- **`!setweather <zip or location>`**: Set your weather location using a zip code or location name.
+  - Example: `!setweather 10001`
+- **`!join <#channel>`**: Make the bot join the specified channel.
+  - Example: `!join #weather`
+- **`!part <#channel>`**: Make the bot leave the specified channel.
+  - Example: `!part #weather`
+- **`!help`**: Show the help message.
 
