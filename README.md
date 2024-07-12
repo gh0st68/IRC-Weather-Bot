@@ -1,5 +1,21 @@
 # Twisted Weather Bot By Gh0st
 
+## Table of Contents
+- [Requirements](#requirements)
+- [Installation](#installation)
+  - [1. Install Required Libraries](#1-install-required-libraries)
+  - [2. Save the Script](#2-save-the-script)
+  - [3. Edit the Script](#3-edit-the-script)
+- [Running the Bot](#running-the-bot)
+  - [1. Start a Screen Session](#1-start-a-screen-session)
+  - [2. Run the Bot](#2-run-the-bot)
+  - [3. Detach the Screen Session](#3-detach-the-screen-session)
+  - [4. Reattach to the Screen Session](#4-reattach-to-the-screen-session)
+- [Commands](#commands)
+  - [Weather Commands](#weather-commands)
+  - [Channel Commands](#channel-commands)
+- [Questions or Help](#questions-or-help)
+
 ## Requirements
 To run this bot, you need to obtain two API keys:
 1. [OpenWeather API Key](https://openweathermap.org/)
