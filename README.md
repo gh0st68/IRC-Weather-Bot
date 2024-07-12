@@ -35,7 +35,7 @@ pip3 install jaraco.stream
 ```
 
 ### 2. Save the Script
-Save the bot script to a file named `TwistedWeatherBot.py`.
+Save the bot script to a file named `TwistedWeatherBot2.py`.
 
 ### 3. Edit the Script
 Edit the script to add your API keys:
@@ -56,7 +56,7 @@ screen -S weatherbot
 ### 2. Run the Bot
 Within the screen session, run the bot:
 ```sh
-python3 TwistedWeatherBot.py
+python3 TwistedWeatherBot2.py
 ```
 
 ### 3. Detach the Screen Session
